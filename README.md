@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpagit&show_icons=true&theme=dark&title_color=ffffff&bg_color=766f6f&locale=en&layout=compact" alt="sankalpagit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpagit&show_icons=true&locale=en" alt="sankalpagit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SankalpaGit&theme=radical&hide_border=false" alt="sankalpagit" /></p>

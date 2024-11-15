@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpagit&show_icons=true&locale=en" alt="sankalpagit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpagit&" alt="sankalpagit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SankalpaGit&theme=radical&hide_border=false" alt="sankalpagit" /></p>

@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sankalpa Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal. Wait ! frontend is not limit for me I can switch as backend too when required</h3>
+<h3 align="center">A passionate frontend developer from Nepal. Wait ! frontend is not limit for me I can switch as backend too when required, In short</h3>
+<h1 align="center"><strong>Full Stack Developer</strong></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpagit&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpagit" /> </p>
 
-- 🔭 I’m currently working on **DecAscend**
+- 🔭 I’m currently working on **Chikitsakalaya**
 
-- 💬 Ask me about **React js, Next js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

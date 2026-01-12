@@ -44,3 +44,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpagit&show_icons=true&theme=dark&title_color=ffffff&bg_color=766f6f&locale=en&layout=compact" alt="sankalpagit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SankalpaGit&theme=radical&hide_border=false" alt="sankalpagit" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SankalpaGit/SankalpaGit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SankalpaGit/SankalpaGit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SankalpaGit/SankalpaGit/output/pacman-contribution-graph.svg">
+</picture>
+

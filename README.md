@@ -9,8 +9,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="left">
+  <a href="https://np.linkedin.com/in/sankalpa-shrestha-776834278" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/being_joshi.sankalpa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">

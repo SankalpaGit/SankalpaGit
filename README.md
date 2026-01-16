@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpagit&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpagit" /> </p>
 
-- 🔭 I’m currently working on **Chikitsakalaya**
+<h2>Software Engineer Developer @ Bardali Creations</h2>
 
 
 <h3 align="left">Connect with me:</h3>
